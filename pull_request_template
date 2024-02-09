@@ -1,0 +1,26 @@
+# Descrição
+
+Por favor, inclua um resumo das alterações e a issue relacionada. Também inclua motivação e contexto relevantes. Liste quaisquer dependências necessárias para esta alteração.
+
+Fixes # (issue)
+
+## Tipo da mudança
+
+- [ ] Bug fix (alteração não disruptiva que corrige um problema)
+- [ ] New feature (alteração não disruptiva que adiciona funcionalidade)
+- [ ] Breaking change (correção ou funcionalidade que causaria um comportamento inesperado)
+- [ ] Esta alteração requer uma atualização na documentação
+
+# Como Isso Foi Testado?
+
+Por favor, descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir, screenshots ou vídeos são bem vindos. Por favor, liste também quaisquer detalhes relevantes para a configuração dos seus testes.
+
+- [ ] Test A - Cenário de sucesso
+- [ ] Test B - Cenário de falha
+
+# Pontos de atenção
+
+Existe algum ponto de atenção que o revisor precise considerar?
+
+- [ ] Não há
+- [ ] Se houver, segue exemplo -> Hook comentado porque o componente foi refatorado e o import será usado após o merge das demais branches na develop
